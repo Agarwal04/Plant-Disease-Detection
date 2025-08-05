@@ -1,0 +1,1 @@
+In Plant Disease Detection I used a dataset of 45,000 images to develop a deep learning model to detect plant diseases achieving an accuracy of 80%. This project helped me to strengthen my understanding of neural networks and model evaluation techniques.
